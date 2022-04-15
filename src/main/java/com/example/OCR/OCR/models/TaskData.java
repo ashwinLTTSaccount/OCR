@@ -18,5 +18,5 @@ public class TaskData {
     private String extractionType;
     private String pageNumber;
     private String projectId;
-    private int multiplier;
+    private String multiplier;
 }
